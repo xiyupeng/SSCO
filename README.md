@@ -30,7 +30,7 @@ Or you can download all genbank files of bacterial from :  ftp://ftp.ncbi.nlm.ni
 ## Getting Started 
 
 Use NC_000913.gbk as the test file, an example     
-Please ensure that the gkb file to be analyzed is under current directory or you may modify the path in scripts
+Please ensure that the gkb file to be analyzed is under current directory or you may modify the path in scripts    
 Please ensure that all the result file is in the same directory with gbk file.
 #
 
